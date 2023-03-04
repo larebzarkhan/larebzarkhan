@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0/1583217311227?e=2147483647&v=beta&t=s_7cvkGjyfNTp2x6mnsiPFUfbPhWyvnMIavE_na62bE)
-<h1 align="center">Hi 👋, I'm Lareb Zar Khan</h1>
-<h3 align="center"> I am passionate about learning and applying Data Science to create real-world impact</h3>
+<h1 align="center">Hi, I'm Lareb Zar Khan</h1>
+<h3 align="center"> I am passionate about learning and applying Data Science to solve real-world problems</h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
